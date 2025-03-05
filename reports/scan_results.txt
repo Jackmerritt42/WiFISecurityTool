@@ -1,0 +1,68 @@
+Wi-Fi Security Assessment Report
+===============================
+
+Date: 2025-03-05 17:24:00
+
+Networks Found: 5
+
+Summary:
+  HIGH Risk: 2 networks
+  LOW Risk: 3 networks
+
+Network Details:
+---------------
+
+Network 1: UC_Guest
+  Encryption: OPEN
+  Signal Strength: 38%
+  Security Risk: HIGH
+  MAC Address: 34:5d:a8:52:f1:6d
+
+  Vulnerabilities:
+    - NO_ENCRYPTION: Network has no encryption
+      Recommendation: Implement WPA2 or WPA3 encryption
+
+
+Network 2: eduroam
+  Encryption: WPA2
+  Signal Strength: 16%
+  Security Risk: LOW
+  MAC Address: 34:5d:a8:2a:92:40
+
+  Vulnerabilities:
+    No vulnerabilities detected
+
+
+Network 3: UC_Secure
+  Encryption: WPA2
+  Signal Strength: 40%
+  Security Risk: LOW
+  MAC Address: 34:5d:a8:5d:71:01
+
+  Vulnerabilities:
+    No vulnerabilities detected
+
+
+Network 4: SolsticePod_3205
+  Encryption: OPEN
+  Signal Strength: 80%
+  Security Risk: HIGH
+  MAC Address: 5c:fb:3a:06:41:29
+
+  Vulnerabilities:
+    - NO_ENCRYPTION: Network has no encryption
+      Recommendation: Implement WPA2 or WPA3 encryption
+
+
+Network 5: HP-Print-e5-LaserJet Pro M201dw
+  Encryption: WPA2
+  Signal Strength: 65%
+  Security Risk: LOW
+  MAC Address: 70:77:81:c0:e7:e5
+
+  Vulnerabilities:
+    No vulnerabilities detected
+
+
+
+End of Report
