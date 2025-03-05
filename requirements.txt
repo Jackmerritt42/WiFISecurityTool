@@ -1,0 +1,8 @@
+# Core dependencies
+colorama>=0.4.4         # For colored terminal output
+argparse>=1.4.0         # For command-line arguments parsing
+
+# Optional dependencies
+matplotlib>=3.5.0       # For data visualization in reports (optional)
+scapy>=2.4.5            # For advanced packet analysis in monitor mode (optional)
+flask>=2.0.0            # For web interface (optional future feature)
