@@ -160,5 +160,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- University of Cincinnati Cybersecurity program
 - Open-source wireless security tools and communities
+- University of Cincinnati clubs (Cyber@UC, IEEE, UC-AI)
