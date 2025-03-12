@@ -162,3 +162,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Open-source wireless security tools and communities
 - University of Cincinnati clubs (Cyber@UC, IEEE, UC-AI)
+
+-## Future plans
+
+-Make parent/child program window for windows systems
+-add more scanning abilities 
+-change colors to 4, green, yellow, red, respectivly, and blue for UNK
+-better report about wifi host, change to be able to export into pdf
+-better security reccomendations
+-enhace programability for raspberry pi 
+
+-seperate project for mapping wifi stregnth 
